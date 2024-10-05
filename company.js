@@ -1,3 +1,5 @@
+const jsonGen = require(".")
+
 let company = [
     {
         id:"1",
@@ -264,8 +266,10 @@ let company = [
         companyName:"Nextturn solutions",
         url:"https://nexturn.com/careers/"
     },
-
-    
-    
-    
 ]
+
+module.exports=company
+ const   obj = new  jsonGen();
+
+//  obj.ArraytoJson(company,"company","company")
+obj.JsontoExcell("./company/company.json","company")
