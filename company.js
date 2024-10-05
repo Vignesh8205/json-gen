@@ -147,8 +147,125 @@ let company = [
     {
         id:"31",
         companyName:"Intellect",
-        url:"https://www.alchemy.com/careers"
+        url:"https://intellect.com/company/careers/"
     },
+    {
+        id:"32",
+        companyName:"Dmind",
+        url:"https://aimet.tech/en/aimet-careers/"
+    },
+    {
+        id:"33",
+        companyName:"ContentStack",
+        url:"https://aimet.tech/en/aimet-careers/"
+    },
+    {
+        id:"34",
+        companyName:"Centific",
+        url:"https://www.linkedin.com/company/centificglobal/jobs/"
+    },
+    {
+        id:"35",
+        companyName:"qualiintia pvt ltd",
+        url:"https://www.linkedin.com/company/qualintia/posts/?feedView=all"
+    },
+    {
+        id:"36",
+        companyName:"MSC Tech it solutrions",
+        url:"https://msc-technology.com/content/current-opening-india"
+    },
+    {
+        id:"37",
+        companyName:"Masteck IT solutions",
+        url:"https://www.mastek.com/careers/"
+    },
+    {
+        id:"38",
+        companyName:"Tekis hub solutions",
+        url:"https://tekishub.com/careers.html"
+    },
+    {
+        id:"39",
+        companyName:"Mastek IT solutions",
+        url:"https://clearvuesolutions.com/#contact"
+    },
+    {
+        id:"40",
+        companyName:"Techtexas",
+        url:"https://www.techtexas.net/"
+    },
+    {
+        id:"41",
+        companyName:"RCG GLOBAL",
+        url:"https://rcgglobalservices.com/rcg-careers"
+    },
+    {
+        id:"42",
+        companyName:"Onward Technologies",
+        url:"https://www.onwardgroup.com/careers.php"
+    },
+    {
+        id:"43",
+        companyName:"careernet solutions",
+        url:"https://careernet.in/join-us-form/"
+    },
+    {
+        id:"44",
+        companyName:"unison",
+        url:"https://careers-unisonglobal.icims.com/jobs/intro?hashed=-625973264"
+    },
+    {
+        id:"45",
+        companyName:"synechron technologies",
+        url:"https://www.synechron.com/en-in/careers/jobs"
+    },
+    {
+        id:"46",
+        companyName:"Pion Global",
+        url:"https://www.pionglobal.com/#careers"
+    },
+    {
+        id:"47",
+        companyName:"Mobile Programming",
+        url:"https://www.mobileprogramming.com/careers"
+    },
+    {
+        id:"48",
+        companyName:"Citius Health care",
+        url:"https://www.citiustech.com/careers/job-openings"
+    },
+    {
+        id:"49",
+        companyName:"Tech mahindra",
+        url:"https://careers.techmahindra.com/"
+    },
+    {
+        id:"50",
+        companyName:"Wesco",
+        url:"https://eklm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions"
+    },
+    {
+        id:"51",
+        companyName:"Augmento labs",
+        url:"https://augmentolabs.com/career/"
+    },
+    {
+        id:"52",
+        companyName:"Brxio",
+        url:"http://www.brxio.com/contact.php"
+    },
+    {
+        id:"53",
+        companyName:"Expleo",
+        url:"https://careers.expleo.com/en/?_gl=1%2Arcykjt%2A_gcl_au%2AMTI3NTQxODE2OS4xNzI4MTU2NTQx"
+    },
+    {
+        id:"54",
+        companyName:"Nextturn solutions",
+        url:"https://nexturn.com/careers/"
+    },
+
+    
     
     
 ]
