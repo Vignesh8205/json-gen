@@ -4,7 +4,7 @@ const app = express();
 
 // Define a route to send the HTML file
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname,'company.html'));
+    res.sendFile(path.join(__dirname,'/dist/index.html'));
 });
 
 // Start the server
